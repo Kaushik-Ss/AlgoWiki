@@ -1,4 +1,4 @@
-
+[![Visits Badge](https://badges.pufler.dev/visits/Kaushik-Ss/AlgoWiki)](https://badges.pufler.dev/visits/Kaushik-Ss/AlgoWiki)
 <p align="center">
 	<img src="AlgoWiki_logo.png" align="center" height="250px" width="250px" alt="AlgoWiki"/>
 </p>
